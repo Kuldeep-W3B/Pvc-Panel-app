@@ -50,7 +50,7 @@ const AboutUs = () => {
           Have questions or need more information about our PVC panels? We'd love to hear from you!
         </p>
         <a
-          href="mailto:info@pvccompany.com"
+          href="mailto:mohitbadgujjar2@gmail.com"
           className="inline-block mt-4 px-6 py-3 text-white bg-blue-600 rounded-lg hover:bg-blue-500 transition duration-200"
         >
           Email at mohitbadgujjar2@gmail.com
