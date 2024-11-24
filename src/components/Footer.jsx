@@ -34,7 +34,7 @@ const Footer = () => {
             <li>
               <span className="font-bold">Email:</span>{" "}
               <a
-                href="mailto:contact@company.com"
+                href="mailto:mohitbadgujjar2@gmail.com"
                 className="text-blue-400 hover:text-blue-300"
               >
                 mohitbadgujjar2@gmail.com
